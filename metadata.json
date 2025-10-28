@@ -1,0 +1,5 @@
+{
+  "name": "PostGeniusAI - Postador Automático do Instagram",
+  "description": "A personal, local-first web application to create and schedule Instagram content using free AI tools. It automatically generates images and text for posts, carousels, and stories.",
+  "requestFramePermissions": []
+}
